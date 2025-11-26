@@ -1,0 +1,32 @@
+# Core Dependencies
+streamlit==1.31.0
+pandas==2.1.4
+numpy==1.24.3
+
+# ML & NLP
+sentence-transformers==2.3.1
+transformers==4.37.0
+torch==2.1.2
+
+# Vector Store
+faiss-cpu==1.7.4
+
+# LLM & RAG
+langchain==0.1.6
+langchain-community==0.0.17
+
+# API (Optional)
+fastapi==0.109.0
+uvicorn==0.27.0
+pydantic==2.5.3
+
+# Utils
+python-dotenv==1.0.0
+tqdm==4.66.1
+matplotlib==3.8.2
+seaborn==0.13.1
+plotly==5.18.0
+
+# Testing
+pytest==7.4.4
+pytest-cov==4.1.0
